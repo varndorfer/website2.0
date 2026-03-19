@@ -12,6 +12,7 @@ Hello! My name is Vanessa Arndorfer and I am a software engineer with a strong b
 Research Interests
 ======
 Interdisciplinary applied machine learning within other STEM fields. Applications of interest include:
+- Neuroscience and biology
 - Environmental solutions
 - Smart homes and smart cities
 - Resource management
